@@ -44,3 +44,6 @@ miyasum = fullmiya %>% group_by(team) %>%
   filter(players>=20) %>% 
   arrange(desc(avg_bpr))
 ```
+
+<img width="493" alt="Screenshot 2024-05-31 at 8 28 25 PM" src="https://github.com/cobrastats/miya_player_improvement/assets/109628356/d3490c3d-c847-48ca-9def-300454936a80">
+
